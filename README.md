@@ -1,2 +1,4 @@
 # Module-Char-Device
-Module Char Device - ORGAII
+Module Char Device
+
+Elaborando un kernel module para un char device.
